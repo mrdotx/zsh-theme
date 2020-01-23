@@ -1,3 +1,7 @@
-# zsh
+# zsh-theme
 
-![klassiker.zsh-theme](klassiker.png)
+## klassiker
+![](klassiker.png)
+
+## klassiker_streamlined
+![](klassiker_streamlined.jpg)
