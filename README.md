@@ -1,5 +1,7 @@
 # zsh-theme
 
+themes for oh-my-zsh command prompt
+
 ## klassiker
 ![klassiker](klassiker.png)
 
