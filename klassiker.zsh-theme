@@ -1,7 +1,7 @@
-# path:       /home/klassiker/.local/share/repos/zsh-theme/klassiker.zsh-theme
-# author:     klassiker [mrdotx]
-# github:     https://github.com/mrdotx/zsh-theme
-# date:       2020-05-22T16:24:23+0200
+# path:   /home/klassiker/.local/share/repos/zsh-theme/klassiker.zsh-theme
+# author: klassiker [mrdotx]
+# github: https://github.com/mrdotx/zsh-theme
+# date:   2021-01-15T14:21:18+0100
 
 local return_code="%(?..%{$fg_bold[red]%}%? ↵%{$reset_color%})"
 
